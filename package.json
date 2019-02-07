@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "jpommi",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Bac à sable HTML pour les JPO MMI.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Jérémy Demange <j@lachainemedias.com>",
   "dependencies": {
     "gatsby": "^2.0.115",
     "gatsby-image": "^2.0.29",
@@ -33,9 +33,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/demangejeremy/jpommi/"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/demangejeremy/jpommi/issues"
   }
 }
